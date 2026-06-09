@@ -1,2 +1,0 @@
-# seattlegodega
-website
